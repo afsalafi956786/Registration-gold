@@ -1,5 +1,6 @@
 
-import otpModel from "../model/otpSchema.js";
+
+import otpModel from '../../../../model/userModel/otpSchema.js'
 import axios from "axios";
 import dotenv from 'dotenv';
 import urlencode from 'rawurlencode'
